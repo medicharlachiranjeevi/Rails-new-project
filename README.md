@@ -18,4 +18,4 @@ cd Rails-new-project/setup-zsh/
 cd Rails-new-project/setup-node/
 ```
 
-#### [install node and yarn](setup-node//README.md)
+#### [install node and yarn](setup-node/)
