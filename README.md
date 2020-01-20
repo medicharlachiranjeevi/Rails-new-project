@@ -33,5 +33,7 @@ gem install breakman
 
 ## Run To install overcommit
 ```
+sudo apt-get install cmake
+bundle install 
 overcommit --install
 ```
