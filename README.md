@@ -30,4 +30,4 @@ cd Rails-new-project/setup-rbenv/
 
 ### Start new project on rails
 
-#### [install ruby and rbenv](new-Project/)
+#### [latest ruby and rails](new-Project/)
