@@ -1,6 +1,6 @@
 # Rails-new-project
 
-## Add To gem file
+### Add To gem file
 ```
 group :test do
   gem "simplecov"
@@ -13,9 +13,9 @@ group :development do
   gem "overcommit"
 end
 ```
-## Place .overcommit.yml and .rubocop.yml file in project
+### Place .overcommit.yml and .rubocop.yml file in project
 
-## In config/environments/development.rb Add In end
+### In config/environments/development.rb Add In end
 
 ```
   config.after_initialize do
@@ -26,12 +26,12 @@ end
     Bullet.rails_logger = true
   end
 ```
-## Install breakman gem 
+### Install breakman gem 
 ```
 gem install breakman
 ```
 
-## Run To install overcommit
+### Run To install overcommit
 ```
 sudo apt-get install cmake
 bundle install 
