@@ -3,7 +3,7 @@
 ## Add To gem file
 ```
 group :test do
-  gem "simplecov"</code>
+  gem "simplecov"
   gem "simplecov-lcov"
 end
 group :development do
