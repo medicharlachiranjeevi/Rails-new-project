@@ -1,2 +1,3 @@
 # Rails Setup
-[this subtext](subpro/subtext.md)
+
+[install zsh](setup-zsh/README.md)
