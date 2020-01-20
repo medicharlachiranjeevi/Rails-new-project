@@ -1,4 +1,9 @@
 # Rails-new-project
+## create new project 
+### rails new myapp change app name
+```
+bash install.sh
+```
 
 ### Add To gem file
 ```
