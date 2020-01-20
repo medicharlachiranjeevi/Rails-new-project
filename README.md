@@ -10,4 +10,4 @@ git clone https://github.com/medicharlachiranjeevi/Rails-new-project.git
 cd Rails-new-project/setup-zsh/
 ```
 
-[install zsh](setup-zsh/README.md)
+#### [install zsh](setup-zsh/README.md)
