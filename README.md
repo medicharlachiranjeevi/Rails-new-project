@@ -40,9 +40,8 @@ source .zshrc
 
 ### Start new project on rails
 
-# Rails-new-project
 
-## create new project 
+## create new project using lastes ruby version
 
 ### rails new myapp change app name
 ```
