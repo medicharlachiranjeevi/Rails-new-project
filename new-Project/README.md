@@ -19,11 +19,7 @@ group :development do
 end
 ```
 ### Place .overcommit.yml and .rubocop.yml file in project
-### Run
-```
-overcommit --install
-```
-### to install git hooks 
+
 ### In config/environments/development.rb Add In end
 
 ```
