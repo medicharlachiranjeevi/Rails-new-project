@@ -31,7 +31,13 @@ sudo apt install -y  software-properties-common  python  python3  zip  curl  hto
 
 ```
 
-#### [install ruby and rbenv](setup-rbenv/)
+#### Install ruby and rbenv
+```
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >>~/.zshrc && echo 'eval "$(rbenv init -)"' >>~/.zshrc
+source .zshrc
+```
 
 ### Start new project on rails
 
