@@ -1,9 +1,4 @@
-# Rails Setup
-## clone repo
-
-```
-git clone https://github.com/medicharlachiranjeevi/Rails-new-project.git
-```
+# Rails Dev Setup 
 ### First install zsh
 ```
 sudo apt install -y zsh fonts-powerline
