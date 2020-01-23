@@ -6,19 +6,13 @@ git clone https://github.com/medicharlachiranjeevi/Rails-new-project.git
 ```
 ### First install zsh
 ```
-
-cd Rails-new-project/setup-zsh/
+sudo apt install -y zsh fonts-powerline
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+chsh -s $(which zsh)
 ```
 
-#### [install zsh](setup-zsh/)
-
-### Second install node and yarn
-```
-
-cd Rails-new-project/setup-node/
-```
-
-### Third install ruby and rbenv
+### install node and yarn
 ```
 sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
