@@ -12,6 +12,11 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 chsh -s $(which zsh)
 ```
 
+## And change ZSH_THEME to "agnoster" in ~/.zshrc
+```
+ZSH_THEME="agnoster"
+```
+
 ### install node and yarn
 ```
 sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
